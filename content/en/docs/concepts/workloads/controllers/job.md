@@ -315,6 +315,8 @@ or completed for the same index will be deleted by the Job controller once they 
 
 ## Integrate with Workload APIs
 
+<!-- placeholder for KEP-5547 v1.38 Beta -->
+
 {{< feature-state feature_gate_name="WorkloadWithJob" >}}
 
 When the [`WorkloadWithJob`](/docs/reference/command-line-tools-reference/feature-gates/) 
